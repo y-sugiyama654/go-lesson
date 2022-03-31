@@ -7,3 +7,4 @@
 ###### [ioutil](https://github.com/y-sugiyama654/go-lesson/pull/52)
 ### ネットワーク関連でよく使われるライブラリ
 ###### [http](https://github.com/y-sugiyama654/go-lesson/pull/53)
+###### [json.UnmarshalとMarshal](https://github.com/y-sugiyama654/go-lesson/pull/54)
