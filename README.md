@@ -9,3 +9,5 @@
 ###### [http](https://github.com/y-sugiyama654/go-lesson/pull/53)
 ###### [json.UnmarshalとMarshal](https://github.com/y-sugiyama654/go-lesson/pull/54)
 ###### [hmacでAPI認証](https://github.com/y-sugiyama654/go-lesson/pull/55)
+### サードパーティーのパッケージ
+###### [Semaphore](https://github.com/y-sugiyama654/go-lesson/pull/5)
