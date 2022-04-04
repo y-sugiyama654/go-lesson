@@ -13,3 +13,4 @@
 ###### [Semaphore](https://github.com/y-sugiyama654/go-lesson/pull/56)
 ###### [ini](https://github.com/y-sugiyama654/go-lesson/pull/57)
 ###### [talib](https://github.com/y-sugiyama654/go-lesson/pull/58)
+###### [WebSocket](https://github.com/y-sugiyama654/go-lesson/pull/59)
