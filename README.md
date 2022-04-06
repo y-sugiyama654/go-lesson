@@ -14,3 +14,5 @@
 ###### [ini](https://github.com/y-sugiyama654/go-lesson/pull/57)
 ###### [talib](https://github.com/y-sugiyama654/go-lesson/pull/58)
 ###### [WebSocket](https://github.com/y-sugiyama654/go-lesson/pull/59)
+### データベース
+###### [DB操作](https://github.com/y-sugiyama654/go-lesson/pull/60)
