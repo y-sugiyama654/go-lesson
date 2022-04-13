@@ -17,4 +17,4 @@
 ### データベース
 ###### [DB操作](https://github.com/y-sugiyama654/go-lesson/pull/60)
 ### Web Applicationを作成する
-###### [Web Application](https://github.com/y-sugiyama654/go-lesson/pull/6)
+###### [Web Application](https://github.com/y-sugiyama654/go-lesson/pull/61)
